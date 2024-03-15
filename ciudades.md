@@ -3,3 +3,4 @@
 1. Ciudad Gótica
 2. Metrópolis
 
+2. Pueblo paleta
